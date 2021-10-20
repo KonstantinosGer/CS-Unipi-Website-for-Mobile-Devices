@@ -6,5 +6,5 @@ This work uses PHP to load every .php page from the Apatche Server as long as Ja
 <img src="Screenshots/Cs Unipi Website Screenshot (2).png" width="300" height="400" />
 <img src="Screenshots/Cs Unipi Website Screenshot (3).png" width="300" height="400" />
 <img src="Screenshots/Cs Unipi Website Screenshot (4).png" width="300" height="400" />
-<img src="Screenshots/Cs Unipi Website Screenshot (5).png" width="545" height="365" />
-<img src="Screenshots/Cs Unipi Website Screenshot (6).png" width="545" height="365" />
+<img src="Screenshots/Cs Unipi Website Screenshot (5).png" width="280" height="190" />
+<img src="Screenshots/Cs Unipi Website Screenshot (6).png" width="280" height="190" />
